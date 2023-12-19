@@ -1,0 +1,349 @@
+.navbar{
+    /* border: 2px solid red !important; */
+    background-color:#72116F !important;
+}
+#header1{
+    height: 135px;
+    /* border: 2px solid red; */
+}
+#image{
+    /* padding-top:-30px !important; */
+    width: 300px !important;
+    height: 65px !important;
+    position: absolute;
+    top: 63px;
+    margin-left: 150px;
+}
+#div{
+    /* border: 2px solid aqua; */
+    width:100%;
+    margin: auto;
+    background-color: #fff !important;
+    height: 75px;
+  
+}
+.bi-chevron-down{
+    /* border: 2px solid red; */
+    color: orangered;
+    font-weight: 800;
+}
+.nav-link{
+    /* border: 2px solid red; */
+    font-weight: 700 !important;
+    color: #000 !important;
+}
+.nav-link:hover{
+    border-bottom: 2px solid #007bff;
+    color:#007bff !important;
+}
+.nav-pills{
+    /* border: 2px solid red !important; */
+    display: flex;
+    /* justify-content: flex-end; */
+    margin-left: 170px !important;
+    width: 55%;
+    margin-right: 120px;
+}
+
+.navbar-collapse{
+    /* border: 2px solid red; */
+    width: 50% !important;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 200px !important;
+}
+.aaaa{
+    color: #fff !important;
+    font-weight: 400 !important;
+}
+.bbbb{
+    /* border: 2px solid red !important; */
+    width: 120px;
+    background-color:orangered;
+    text-align: center;
+    text-transform: uppercase;
+}
+.bi-caret-right-fill{
+    position: absolute;
+    top:30px;
+    color:#ff7345;
+    font-size: 25px;
+    transform: rotate(-45deg);
+    border-radius: 0px !important;
+}
+
+
+#image1{
+    margin-top:3% !important;
+    /* border: 2px solid red; */
+    width: 70%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.img-fluid{
+    /* width: 95%; */
+    /* margin: auto !important; */
+    border: 5px solid #fff ;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    /* margin-top: 5%; */
+ 
+}
+.one{
+    /* border: 4px solid black ; */
+    margin-left: 230px;
+    margin-right: 36px;
+    margin-top: 1%; 
+}
+.one1{
+    margin-top: 1%; 
+}
+#ddd{
+    /* border: 2px solid; */
+    text-align: center !important;
+    font-family: "Open Sans",sans-serif;
+    color: #222222 !important;
+    font-family: Saira Condensed;
+    font-weight: 800;
+    width: 70%;
+    margin: auto;
+    margin-top: 3%;
+    margin-bottom:3%;
+}
+#ddd>span{
+    color: #7672f2;
+}
+#section{
+    /* border: 2px solid red; */
+    width: 70%;
+    margin: auto;
+    height: 260px;
+    display: flex;
+}
+#section>div{
+    border: 3px solid #cbd0f4;
+    margin-right: 15px;
+}
+#section>div h4{
+    font-size:15px;
+    margin-top: 10px;
+}
+#section>div h5{
+    /* border: 2px solid; */
+    text-align: right;
+    color: #7671f2;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+#article{
+    background-image: url("./image/customers-speak.png");
+    /* border: 2px solid red; */
+    height: 300px;
+    /* background-position:px; */
+}
+#key{
+    /* border: 2px solid red; */
+    text-align: center;
+    padding-top: 6%;
+    font-size: 40px;
+    font-weight: 600;
+  }
+#key-img{
+      background-image: url("./image/MicrosoftTeams-image-53.png");
+    background-position: center;
+
+
+}
+#tech{
+    display: flex;
+    /* border: 2px solid red; */
+    width: 70%;
+    margin: auto;
+}
+#tech img{
+    width: 90%;
+}
+
+/* ..................................................................... */
+#article-1{
+    border-top:1px solid;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    height: 340px;
+    width: 100%;
+    position: absolute;
+    top: 130px;
+    z-index: 111;
+    background-color: white;
+    display: none;
+    }
+#article-div1{
+    /* border: 2px solid green; */
+    display: flex;
+    background-color: white;
+}
+#first-ul{
+    /* border: 2px solid yellow; */
+    color: rgb(90, 88, 88);
+}
+#Digit{
+    /* border: 2px solid red; */
+    margin-left: 18px;
+    font-size: 20px;
+    font-weight: 900;
+    color: black;
+    font-family: Open Sans;
+
+}
+
+#software{
+    /* border: 2px solid yellow; */
+    margin-left:18px ;
+    font-size:20px ;
+    font-weight: 600;
+    color: black;
+}
+#Quality{
+    /* border: 2px solid yellow; */
+    margin-left:18px ;
+    font-size:20px ;
+    font-weight: 600;
+    color: black;
+
+}
+#cloud{
+     /* border: 2px solid yellow; */
+    margin-left:18px ;
+    font-size:20px ;
+    font-weight: 600;
+    color: black;
+}
+/* .......................................................... */
+
+#article-div2{
+    /* border: 2px solid green; */
+    display: flex;
+    background-color: white;
+}
+#auto{
+    /* border: 2px solid red; */
+    margin-left: 15px;
+    font-size:20px ;
+    font-weight: 600;
+    color: black;
+}
+#crm{
+    /* border: 2px solid red; */
+    margin-left: 15px;
+    font-size:20px ;
+    font-weight: 600;
+    color: black;
+
+}
+#erp{
+    /* border: 2px solid red; */
+    margin-left: 15px;
+    font-size:20px ;
+    font-weight: 600;
+    color: black;
+
+}
+#ai{
+    /* border: 2px solid red; */
+    margin-left: 15px;
+    font-size:20px ;
+    font-weight: 600;
+    color: black;
+
+}
+
+/* ............................................................................. */
+
+#aside-1{
+    /* border: 2px solid red; */
+    background-color: white;
+    display: flex;
+    width: 32%;
+    height: 300px;
+    padding-top: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: 120px;
+    left: 700px;
+    visibility: hidden;
+    z-index: 111;
+}
+
+/* ................................................................................... */
+
+#aside2{
+    /* border: 2px solid red; */
+    background-color: white;
+    width: 15%;
+    height: 230px;
+    padding-top: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: 120px;
+    left: 840px;
+    display: none;
+    z-index: 111;
+}
+/* ........................................................................................ */
+#aside3{
+    /* border: 2px solid red; */
+    display: flex;
+    background-color: white;
+    width: 30%;
+    height: 380px;
+    padding-top: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: 120px;
+    left: 960px;
+    line-height: 40px;
+    visibility: hidden;
+    z-index: 111;
+}
+
+
+/* ................................................................................................. */
+
+#aside4{
+    /* border: 2px solid red; */
+    background-color: white;
+    width: 20%;
+    height: 180px;
+    padding-top: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: 120px;
+    left: 1100px;
+    line-height: 40px;
+    display: none;
+    z-index: 111;
+}
+
+/* .................................................................................................... */
+
+#aside5{
+    /* border: 2px solid red; */
+    background-color: white;
+    width: 15%;
+    height: 300px;
+    padding-top: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: 120px;
+    left: 1220px;
+    line-height: 50px;
+    display: none;
+    z-index: 111;
+}
+
+
+
+
+
+
